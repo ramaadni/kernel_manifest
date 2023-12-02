@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="aosp" fetch="https://android.googlesource.com/kernel/manifest" />
+  <remote  name="aosp" fetch="https://android.googlesource.com" />
   <remote  name="rama" fetch="https://github.com/rama982/kernel_common" />
   <default revision="master-kernel-build-2021" remote="aosp" sync-j="4" />
 
