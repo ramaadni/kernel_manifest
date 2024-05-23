@@ -8,7 +8,7 @@
 
   <project path="build" name="kernel/build" />
   <project path="hikey-modules" name="kernel/hikey-modules" revision="android12-5.10" />
-  <project path="common" name="kernel_common_gki-5.10" remote="rmdn" revision="wakacaw-up2" />
+  <project path="common" name="kernel_common_gki-5.10" remote="rmdn" revision="wakacaw" />
   <project path="kernel/tests" name="kernel/tests" />
   <project path="kernel/configs" name="kernel/configs" />
   <project path="common-modules/virtual-device" name="kernel/common-modules/virtual-device" revision="android12-5.10" />
