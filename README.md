@@ -1,7 +1,7 @@
 # Build Kernel
 ## Sync ###
 ```bash
-    repo init -u https://github.com/ramaadni/kernel_manifest -b android12-5.10
+    repo init -u https://github.com/ramaadni/kernel_manifest -b wakacaw --depth=1
     repo sync
 ```
 ## Build ###
